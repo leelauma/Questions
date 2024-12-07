@@ -4,7 +4,7 @@ public class Q17 {
 	public static boolean getXO(String str) {
 		 str = str.toLowerCase();
 	        
-	        int countX = 0;
+	        int countX = 1;
 	        int countO = 0;
 
 	        // Count the occurrences of 'x' and 'o'
